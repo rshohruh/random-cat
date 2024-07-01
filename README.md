@@ -6,7 +6,8 @@ Everybody needs funny cats.
 
 Ongoing:
 - frontend developer is not answering the phone
-- backend developer still doing his work
+- backend developer is missing too
+- i have repo with all their branches, so i'll call the SRE guys for help
 
 ====
 
