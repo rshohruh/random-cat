@@ -5,8 +5,8 @@ Everybody needs funny cats.
 ====
 
 Ongoing:
-- frontend developer started his work
-- backend developer started his work
+- frontend developer is not answering the phone
+- backend developer still doing his work
 
 ====
 
