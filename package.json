@@ -1,0 +1,9 @@
+{
+    "name": "kit_homework_frontend",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "Kirill Khomik <khomikki@yandex-team.ru>"
+}
