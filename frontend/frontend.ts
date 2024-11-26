@@ -1,5 +1,6 @@
 import * as express from "express";
 import * as path from "path";
+import fetch from "node-fetch";
 
 const app = express();
 app.set('views', path.join(__dirname, '/'));
